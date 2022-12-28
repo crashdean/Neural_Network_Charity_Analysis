@@ -23,6 +23,12 @@ determine if the data from over 34,000 orginizatons is successful.
 
 ### Compiling, Training, and Evaluating the Model
 
+- The first layer had 50 neurons with the sigmoid function. The second layer had 30 neurons with the relu function. The
+  third layer had 20 neurons with therelu function,  The output layer used the sigmoid function.   The first layer used 
+  the sigoid function because it help with the efficientcy of the model.
+- The model did not acheive the 75% performance target.
+- I changed the number of layers and neutrons in 3 differnt models to achieve a small gain in the performance.
+
 ![](https://github.com/crashdean/Neural_Network_Charity_Analysis/blob/main/Resources/deep_learning_model.png)
 
 
