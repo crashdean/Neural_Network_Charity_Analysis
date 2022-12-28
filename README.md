@@ -17,6 +17,8 @@ determine if the data from over 34,000 orginizatons is successful.
   model.
 - EIN, NAME, STATUS, and SPECIAL_CONSIDERATION columns are nither targets nor features.
 
+- Screenshot of data processing:
+
 ![](https://github.com/crashdean/Neural_Network_Charity_Analysis/blob/main/Resources/data_processing.png)
 
 ### Compiling, Training, and Evaluating the Model
