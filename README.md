@@ -17,6 +17,8 @@ determine if the data from over 34,000 orginizatons is successful.
   model.
 - EIN, NAME, STATUS, and SPECIAL_CONSIDERATION columns are nither targets nor features.
 
+![](https://github.com/crashdean/PyBer_Analysis/blob/main/Resources/City_type_sum.png)
+
 ### Compiling, Training, and Evaluating the Model
 
 ## Summary
