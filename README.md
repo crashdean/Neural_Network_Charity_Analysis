@@ -23,4 +23,7 @@ determine if the data from over 34,000 orginizatons is successful.
 
 ### Compiling, Training, and Evaluating the Model
 
+![](https://github.com/crashdean/Neural_Network_Charity_Analysis/blob/main/Resources/deep_learning_model.png)
+
+
 ## Summary
