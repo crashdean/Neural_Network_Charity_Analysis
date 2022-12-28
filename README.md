@@ -28,6 +28,7 @@ determine if the data from over 34,000 orginizatons is successful.
   the sigoid function because it help with the efficientcy of the model.
 - The model did not acheive the 75% performance target.
 - I changed the number of layers and neutrons in 3 differnt models to achieve a small gain in the performance.
+- Screenshot of the model layers:
 
 ![](https://github.com/crashdean/Neural_Network_Charity_Analysis/blob/main/Resources/deep_learning_model.png)
 
