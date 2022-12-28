@@ -37,5 +37,8 @@ determine if the data from over 34,000 orginizatons is successful.
 
 The model used to predict wheather donation to organizations was not successful and had an accuraccy of .734 with a loss
 metric of .55 before it was optimized.   Removing noisy features form the model and and adding additional layers to the model did
-not improve the accuracy noticably.
+not improve the accuracy.   Using a differnt model such as a Random Forest Model might help by splitting the data up into smaller
+pieces to be modeled.
+
+
 
