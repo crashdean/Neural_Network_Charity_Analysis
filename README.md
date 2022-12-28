@@ -34,3 +34,8 @@ determine if the data from over 34,000 orginizatons is successful.
 
 
 ## Summary
+
+The model used to predict wheather donation to organizations was not successful and had an accuraccy of .734 with a loss
+metric of .55 before it was optimized.   Removing noisy features form the model and and adding additional layers to the model did
+not improve the accuracy noticably.
+
